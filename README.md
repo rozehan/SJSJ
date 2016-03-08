@@ -1,17 +1,17 @@
 ![Logo SJSJ](/images/logo.jpg)
 
-*Simplified JavaScript Jargon* (short *SJSJ*) is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced.
+*Basitleştirilmiş JavaScript Jargonu* (kısaca *BJJ*) birkaç basit deyişle, komünite odaklı Javascript'in temel kelimelerini açıklayan bir girişimdir. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced.
 
-If you are willing to contribute, open a pull request to complete, update or fill in a section. Thank you for doing so!
+Eğer katkıda bulunmak isterseniz, bir 'pull request' yollayın, bir bölümü güncelleyin veya doldurun. Teşekkür ederiz!
 
-## Related projects
+## İlgili projeler
 
-* A Russian version of SJSJ by Andrew Romanov: https://github.com/andrew--r/SJSJ
-* A CLI tool for SJSJ by Hank Wang: https://github.com/hanksudo/SJSJ-cli
-* A Chrome extension for SJSJ by [ismnoiet](https://github.com/ismnoiet): https://github.com/ismnoiet/JSJargon
+* Andrew Romanov tarafından hazırlanan Rusça versiyon: https://github.com/andrew--r/SJSJ
+* Hank Wang tarafından hazırlanan CLI aracı: https://github.com/hanksudo/SJSJ-cli
+* [ismnoiet](https://github.com/ismnoiet) tarafından hazırlanan Chrome eklentisi: https://github.com/ismnoiet/JSJargon
 * A [data crawler](#export-entries-as-json) for SJSJ by myself
 
-## Glossary
+## Sözlük
 
 [A](#a) ·
 [B](#b) ·
@@ -42,7 +42,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### A
 
-* [AJAX](/glossary/AJAX.md): a technology for asynchronous HTTP requests.
+* [AJAX](/glossary/AJAX.md): Asenkronize HTTP istekleri için bir teknoloji.
 * [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
 * [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 * [Apache Cordova](/glossary/APACHECORDOVA.md) (formerly **PhoneGap**): a popular mobile application development framework originally created by Nitobi.
