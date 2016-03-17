@@ -1,6 +1,6 @@
 # AMD
 
-[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) stands for Asynchronous Module Definition. It is an alternative to [CommonJS (CJS)](COMMONJS.md) specification.
+[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) açılımı Asenkron Modul Tanımlamadır. Alternatifi ise [CommonJS (CJS)](COMMONJS.md)'dir.
 
 The API specifies a mechanism for defining modules such that the module and its dependencies can be asynchronously loaded. This is particularly well suited for the browser environment where synchronous loading of modules incurs performance, usability, debugging, and cross-domain access problems.
 

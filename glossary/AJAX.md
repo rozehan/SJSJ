@@ -1,3 +1,3 @@
 # AJAX
 
-[AJAX (Asynchronous JavaScript and XML)](https://developer.mozilla.org/en-US/docs/AJAX) is a technique for creating seamless interactive websites via asynchronous data exchange between client and server. AJAX facilitates communication with the server via partial page updates instead of the traditional full-page refresh.
+[AJAX (Asenkron JavaScript and XML)](https://developer.mozilla.org/en-US/docs/AJAX) istemci ve sunucu arasında asenkron veri alışverişi yoluyla etkileşimli ve kesintisiz web siteleri oluşturmak için bir tekniktir. Ajax geleneksel tam sayfa güncellemeleri yerine kısmı sayfa güncellemeleriyle iletişimi kolaylaştırır.

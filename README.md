@@ -43,21 +43,21 @@ Eğer katkıda bulunmak isterseniz, bir 'pull request' yollayın, bir bölümü 
 ### A
 
 * [AJAX](/glossary/AJAX.md): Asenkronize HTTP istekleri için bir teknoloji.
-* [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
-* [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
-* [Apache Cordova](/glossary/APACHECORDOVA.md) (formerly **PhoneGap**): a popular mobile application development framework originally created by Nitobi.
-* [Arity](/glossary/ARITY.md): the number of arguments of a function.
+* [AMD](/glossary/AMD.md): asenkron modülleri veya JavaSript kütüphanelerinin nasıl yükleneceğini tanımlayan bir standarttır.
+* [AngularJS](/glossary/ANGULARJS.md): dinamik web uygulamaları için yapısal bir çerçevedir.
+* [Apache Cordova](/glossary/APACHECORDOVA.md) (eski ismiyle **PhoneGap**): Nitobi tarafından hazılranan popüler bir mobil uygulama geliştirme çerçevesi.
+* [Arity](/glossary/ARITY.md): bir fonksiyonun argüman sayısı.
 
 ### B
 
-* [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
-* [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
-* [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
-* [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
-* [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
-* [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
+* [Babel](/glossary/BABEL.md): ECMAScript 2015 / ES6 kod çeviricisi (transpiler) olarak başlayan bir dönüşüm aracı.
+* [Backbone](/glossary/BACKBONE.md): dinamik web uygulamaları için yapısal bir çerçevedir.
+* [Bluebird](/glossary/BLUEBIRD.md): yenilikçi özellikleri ve performans odaklı, tam özellikli bir Promise kütüphanesi.
+* [Bower](/glossary/BOWER.md): önyüz bağımlılıkları için bir paket yöneticisi.
+* [Broccoli](/glossary/BROCCOLI.md): hızlı ve güvenilir bir "asset pipeline".
+* [Browserify](/glossary/BROWSERIFY.md): node.js ile gelen "require" işlevini tarayıcı içinde kullanmayı mümkün kılan bir araç.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
-
+geliştime dosyalarından 
 ### C
 
 * [Canvas](/glossary/CANVAS.md): an HTML element for graphic applications in 2D or 3D.
